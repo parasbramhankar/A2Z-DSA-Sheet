@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class BinarySearch {
 
+
     static int binarySearch(int[] arr, int low,int high,int ele){
 
         while(low<high){
