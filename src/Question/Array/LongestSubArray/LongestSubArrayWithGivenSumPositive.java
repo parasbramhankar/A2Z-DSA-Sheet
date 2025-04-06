@@ -1,6 +1,5 @@
-package Question.Array;
+package Question.Array.LongestSubArray;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class LongestSubArrayWithGivenSumPositive {
